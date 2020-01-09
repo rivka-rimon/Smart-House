@@ -1,0 +1,21 @@
+a{
+    color:white;
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: none;
+    color: white;
+}
+button{
+    color: white;
+    margin: 10px;
+    height: 60px;
+    text-transform: capitalize;  
+}
+#addBtn{
+    width: 100px;
+}
+#empty{
+    margin-top: 15px;
+    font-size: large;
+}

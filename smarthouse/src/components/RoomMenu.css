@@ -1,0 +1,10 @@
+#roomBtn{
+    width: 200px;
+    height: 200px;
+    font-size: 30px;
+    border: none;
+    font-family: 'Courgette', cursive;
+}
+#roomBtn:hover{
+    opacity: 0.8;
+}

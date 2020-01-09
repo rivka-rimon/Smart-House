@@ -1,0 +1,32 @@
+body{
+    text-transform: capitalize;
+    letter-spacing: 2px;
+}
+#roomInfoList{
+    list-style-type: none;
+    text-align: center;
+    margin-top: 15px;
+    margin-left: 32%;
+    margin-right: 36%;
+}
+li, #productsList{
+    text-align: center;
+    font-size: large;
+    border: 1px rgb(73, 49, 49) solid;
+    border-radius: 3px;
+    width: 300px;
+    padding: 10px;
+    margin-top: 10px;
+    font-family: 'Courgette', cursive;
+}
+#room{
+    border: 2px black solid;
+    border-radius: 8px;
+    margin-right: 23%;
+    margin-left: 23%;
+}
+h2{
+    padding: 20px;
+}
+
+

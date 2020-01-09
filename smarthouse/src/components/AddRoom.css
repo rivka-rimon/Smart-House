@@ -1,0 +1,16 @@
+h3{
+    color: rgb(73, 49, 49);
+    padding: 20px;
+}
+.selectRoom{
+    border: 3px  rgb(73, 49, 49) solid ;
+    margin: 15px;
+    width: 300px;
+    padding: 15px;
+}
+#creatBtn{
+    padding: 15px 30px;
+}
+#homeBtn{
+    padding: 15px 30px;
+}
